@@ -1,6 +1,15 @@
+const readline = require('readline');
+
 function sayHello() {
-    const name = prompt("What is your name?");
-    console.log("Hello " + name);
+    const rl = readline.createInterface({
+        input: process.stdin,
+        output: process.stdout
+    });
+
+    rl.question("What is your name? ", (name) => {
+        console.log("Hello " + name);
+        rl.close();
+    });
 }
 
 // Call the function
