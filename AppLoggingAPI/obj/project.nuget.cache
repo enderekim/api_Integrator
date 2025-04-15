@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jmwBmps8hVE=",
+  "success": true,
+  "projectFilePath": "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/appLoggingAPI/ApploggingAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/endere/.nuget/packages/microsoft.aspnetcore.openapi/9.0.3/microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "/Users/endere/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

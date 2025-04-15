@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/GenAIIntegrator_API.props" />
+</Project>

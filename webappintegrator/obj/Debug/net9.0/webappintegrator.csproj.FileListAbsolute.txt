@@ -1,0 +1,12 @@
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/webappintegrator/bin/Debug/net9.0/webappintegrator.deps.json
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/webappintegrator/bin/Debug/net9.0/webappintegrator.dll
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/webappintegrator/bin/Debug/net9.0/webappintegrator.pdb
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/webappintegrator/obj/Debug/net9.0/webappintegrator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/webappintegrator/obj/Debug/net9.0/webappintegrator.AssemblyInfoInputs.cache
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/webappintegrator/obj/Debug/net9.0/webappintegrator.AssemblyInfo.cs
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/webappintegrator/obj/Debug/net9.0/webappintegrator.csproj.CoreCompileInputs.cache
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/webappintegrator/obj/Debug/net9.0/webappintegrator.sourcelink.json
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/webappintegrator/obj/Debug/net9.0/webappintegrator.dll
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/webappintegrator/obj/Debug/net9.0/refint/webappintegrator.dll
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/webappintegrator/obj/Debug/net9.0/webappintegrator.pdb
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/webappintegrator/obj/Debug/net9.0/ref/webappintegrator.dll
