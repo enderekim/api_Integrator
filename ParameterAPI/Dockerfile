@@ -16,8 +16,11 @@ WORKDIR /app
 COPY --from=build /app/out .
 
 # Expose the port your API runs on
-EXPOSE 80
+EXPOSE 5005
 EXPOSE 443
+
+# Set environment variables
+ENV ASPNETCORE_URLS=http://0.0.0.0:5005
 
 # Start the application
 ENTRYPOINT ["dotnet", "ParameterAPI.dll"]
