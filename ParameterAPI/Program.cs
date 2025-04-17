@@ -1,7 +1,6 @@
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 
 var app = builder.Build();
@@ -19,9 +18,10 @@ var summaries = new[]
     "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
 };
 
+// Existing weather forecast endpoint
 app.MapGet("/weatherforecast", () =>
 {
-    var forecast =  Enumerable.Range(1, 5).Select(index =>
+    var forecast = Enumerable.Range(1, 5).Select(index =>
         new WeatherForecast
         (
             DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
@@ -32,6 +32,19 @@ app.MapGet("/weatherforecast", () =>
     return forecast;
 })
 .WithName("GetWeatherForecast");
+
+// New getparameterlist endpoint
+app.MapGet("/getparameterlist", () =>
+{
+    var mockParameters = new[]
+    {
+        new { Id = 1, Name = "Parameter1", Value = "Value1" },
+        new { Id = 2, Name = "Parameter2", Value = "Value2" },
+        new { Id = 3, Name = "Parameter3", Value = "Value3" }
+    };
+    return mockParameters;
+})
+.WithName("GetParameterList");
 
 app.Run();
 

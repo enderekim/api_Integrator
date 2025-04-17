@@ -80,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/AppLoggingAPI/AppLoggingAPI.csproj",
-      "projectName": "AppLoggingAPI",
-      "projectPath": "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/AppLoggingAPI/AppLoggingAPI.csproj",
+      "projectUniqueName": "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/appLoggingAPI/ApploggingAPI.csproj",
+      "projectName": "ApploggingAPI",
+      "projectPath": "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/appLoggingAPI/ApploggingAPI.csproj",
       "packagesPath": "/Users/endere/.nuget/packages/",
-      "outputPath": "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/AppLoggingAPI/obj/",
+      "outputPath": "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/appLoggingAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/endere/.nuget/NuGet/NuGet.Config"
@@ -141,7 +141,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
