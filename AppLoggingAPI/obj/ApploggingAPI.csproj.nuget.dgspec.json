@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/appLoggingAPI/ApploggingAPI.csproj": {}
+    "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/AppLoggingAPI/AppLoggingAPI.csproj": {}
   },
   "projects": {
-    "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/appLoggingAPI/ApploggingAPI.csproj": {
+    "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/AppLoggingAPI/AppLoggingAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/appLoggingAPI/ApploggingAPI.csproj",
-        "projectName": "ApploggingAPI",
-        "projectPath": "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/appLoggingAPI/ApploggingAPI.csproj",
+        "projectUniqueName": "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/AppLoggingAPI/AppLoggingAPI.csproj",
+        "projectName": "AppLoggingAPI",
+        "projectPath": "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/AppLoggingAPI/AppLoggingAPI.csproj",
         "packagesPath": "/Users/endere/.nuget/packages/",
-        "outputPath": "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/appLoggingAPI/obj/",
+        "outputPath": "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/AppLoggingAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/endere/.nuget/NuGet/NuGet.Config"

@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import './App.css';
 
 interface Parameter {
     id: number;
@@ -20,7 +19,7 @@ const ParameterList: React.FC = () => {
         try {
             const response = await fetch('http://localhost:5005/getparameterlist');
             if (!response.ok) {
-                throw new Error('to fetch parameters : Hata ' + response.statusText);
+                throw new Error('Failed to fetch parameters');
             }
             const data = await response.json();
             setParameters(data);
@@ -59,17 +58,4 @@ const ParameterList: React.FC = () => {
     );
 };
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <h1>Parameter List</h1>
-      </header>
-      <main>
-        <ParameterList />
-      </main>
-    </div>
-  );
-}
-
-export default App;
+export default ParameterList;

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/ParameterAPI/parameterAPI.csproj": {}
+    "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/ParameterAPI/ParameterAPI.csproj": {}
   },
   "projects": {
-    "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/ParameterAPI/parameterAPI.csproj": {
+    "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/ParameterAPI/ParameterAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/ParameterAPI/parameterAPI.csproj",
-        "projectName": "parameterAPI",
-        "projectPath": "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/ParameterAPI/parameterAPI.csproj",
+        "projectUniqueName": "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/ParameterAPI/ParameterAPI.csproj",
+        "projectName": "ParameterAPI",
+        "projectPath": "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/ParameterAPI/ParameterAPI.csproj",
         "packagesPath": "/Users/endere/.nuget/packages/",
         "outputPath": "/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/ParameterAPI/obj/",
         "projectStyle": "PackageReference",
@@ -47,6 +47,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[8.1.1, )"
             }
           },
           "imports": [

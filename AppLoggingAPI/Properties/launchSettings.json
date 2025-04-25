@@ -19,5 +19,13 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     }
+  },
+  "services": {
+    "apploggingapi": {
+      "image": "username/apploggingapi:latest",
+      "ports": [
+        "5000:5000"
+      ]
+    }
   }
 }

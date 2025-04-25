@@ -26,9 +26,9 @@
 /Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/AppLoggingAPI/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.ApploggingAPI.props
 /Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/AppLoggingAPI/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.ApploggingAPI.props
 /Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/AppLoggingAPI/obj/Debug/net9.0/staticwebassets.pack.json
-/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/appLoggingAPI/obj/Debug/net9.0/Apploggi.84404CD8.Up2Date
 /Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/AppLoggingAPI/obj/Debug/net9.0/ApploggingAPI.dll
 /Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/AppLoggingAPI/obj/Debug/net9.0/refint/ApploggingAPI.dll
 /Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/AppLoggingAPI/obj/Debug/net9.0/ApploggingAPI.pdb
 /Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/appLoggingAPI/obj/Debug/net9.0/ApploggingAPI.genruntimeconfig.cache
 /Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/appLoggingAPI/obj/Debug/net9.0/ref/ApploggingAPI.dll
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/AppLoggingAPI/obj/Debug/net9.0/AppLoggi.836261F1.Up2Date

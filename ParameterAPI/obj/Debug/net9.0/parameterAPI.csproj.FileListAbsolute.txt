@@ -26,9 +26,12 @@
 /Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/ParameterAPI/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.parameterAPI.props
 /Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/ParameterAPI/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.parameterAPI.props
 /Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/ParameterAPI/obj/Debug/net9.0/staticwebassets.pack.json
-/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/ParameterAPI/obj/Debug/net9.0/paramete.CD2AF059.Up2Date
 /Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/ParameterAPI/obj/Debug/net9.0/parameterAPI.dll
 /Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/ParameterAPI/obj/Debug/net9.0/refint/parameterAPI.dll
 /Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/ParameterAPI/obj/Debug/net9.0/parameterAPI.pdb
 /Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/ParameterAPI/obj/Debug/net9.0/parameterAPI.genruntimeconfig.cache
 /Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/ParameterAPI/obj/Debug/net9.0/ref/parameterAPI.dll
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/ParameterAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/ParameterAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/ParameterAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/endere/Library/CloudStorage/OneDrive-DoğuşHoldingA.Ş/Belgeler/Projects/api_Integrator/parameterAPI/obj/Debug/net9.0/Paramete.CE1200F9.Up2Date

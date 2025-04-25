@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("webappintegrator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+405f244ee7bb686a2e98cee2024791b0e94d2add")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+993fec5ba86b3df0ff1fc0c89e06e75578d2d17c")]
 [assembly: System.Reflection.AssemblyProductAttribute("webappintegrator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("webappintegrator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

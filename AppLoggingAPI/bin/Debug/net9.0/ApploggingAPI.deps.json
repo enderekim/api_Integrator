@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "ApploggingAPI/1.0.0": {
+      "AppLoggingAPI/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "9.0.3"
         },
         "runtime": {
-          "ApploggingAPI.dll": {}
+          "AppLoggingAPI.dll": {}
         }
       },
       "Microsoft.AspNetCore.OpenApi/9.0.3": {
@@ -36,7 +36,7 @@
     }
   },
   "libraries": {
-    "ApploggingAPI/1.0.0": {
+    "AppLoggingAPI/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
